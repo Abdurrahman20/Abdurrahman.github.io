@@ -1,0 +1,57 @@
+body{
+	background:url(mosque.jpg);
+	background-position: center;
+	background-size: cover;
+	margin: auto;
+}
+
+section{
+	background: rgba(0,0,233,0.5);
+	color: white;
+	font-family: sans-serif;
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+	height:80px;
+	padding-top: 20px;
+}
+
+span{
+	font-size: 30px;
+	font-family: sans-serif;
+}
+b{
+	color:brown;
+}
+line{
+
+}
+input{
+	font-family: sans-serif; 
+}
+form{
+	text-align: left;
+	background-color:rgba(0,0,0,0.4);
+	margin-left: 300px;
+	margin-right: 300px;
+	height: 500px;
+	padding: 30px 30px;
+	line-height: 30px;
+	color:white;
+}
+input{
+	height:40px;
+	width:900px;
+	text-align: left;
+	margin: auto;
+}
+select{
+	height:40px;
+	width:900px;
+}
+button{
+	height:40px;
+	width:900px;
+	color:white;
+	background:rgba(0,0,233,0.4)
+}
